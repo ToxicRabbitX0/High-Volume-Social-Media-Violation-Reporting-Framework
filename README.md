@@ -114,19 +114,7 @@ def worker():
 > **Note:** Implement `PlatformConnector` per platform and follow each platform's developer policy and rate limits.
 > 
 ---
-
-
-**Suggested repo description:**
 Automated Brand Protection & Social Media Moderation — evidence-first takedown workflows for influencers, brands, and moderation teams.
-
-**SEO Keywords (safe & compliant):**
-
-* online brand protection
-* social media moderation automation
-* fake account detection
-* impersonation takedown
-* automated abuse reporting
-* influencer protection software
 
 `brand-protection`, `moderation`, `social-media`, `cybersecurity`, `automation`, `api`, `influencer-protection`, `rightsenforcement`
 
