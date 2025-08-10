@@ -110,27 +110,7 @@ def worker():
 ```
 
 > **Note:** Implement `PlatformConnector` per platform and follow each platform's developer policy and rate limits.
-
----
-
-## 📦 Repo Structure (suggested)
-
-```
-/README.md
-/LICENSE
-/CONTRIBUTING.md
-/SECURITY.md
-/api-connectors/
-  - tiktok/
-  - instagram/
-  - x/
-/backend/
-/frontend/
-/docs/
-/tests/
-/deployment/
-```
-
+> 
 ---
 
 
