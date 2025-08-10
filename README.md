@@ -140,3 +140,5 @@ RedRepo is an evidence-driven moderation automation platform that reduces the ti
 ## 🧾 Licensing & Legal
 
 Use a permissive license like **Business Source License**, **AGPL**, or **Proprietary** with a clear acceptable-use policy. I recommend a short `LICENSE` with an Acceptable Use Policy (AUP) that forbids use for harassment, illegal competitive disruption, or unauthorized access.
+
+📬 Request via [@RedRepo](https://t.me/RedRepo)
